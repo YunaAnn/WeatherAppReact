@@ -102,5 +102,6 @@ main
 }
 
 .footer { text-align: center;  margin-top:6rem;}
-i {color: #4b4b4b; font-size:75px}
-i:hover{color: #333}
+i {color: #333; font-size:75px}
+i:hover{color: 4b4b4b}
+h2 {color:#333}

@@ -70,6 +70,7 @@ function App()
               ) : ('')}
               <div className="footer">
               <a  target="_blank" rel="noopener noreferrer" href="https://github.com/YunaAnn"><i className="fab fa-github"></i></a>
+              <h2>WeatherAppReact</h2>
               </div>
 
 
