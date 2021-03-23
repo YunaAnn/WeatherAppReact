@@ -45,7 +45,7 @@ main
   background-color: aliceblue;
   border-radius: 0 0 16px 16px;
   margin-top: -10px;
-  box-shadow: 0 5px #333;
+  box-shadow: 0 5px #999292;
   color: #1a1a1a;
   font-size: 22px;
   transition: .4s ease;
@@ -58,11 +58,10 @@ main
 
 .location-box .location
 {
-  color: #e2e2e2;
+  color: #fff;
   font-size: 30px;
   font-weight: 600;
   text-align: center;
-  text-shadow: 3px 3px #333;
 }
 
 .location-box .date
@@ -71,26 +70,24 @@ main
   font-size: 20px;
   font-weight: 200;
   text-align: center;
-  text-shadow: 1px 1px #333;
 }
 
-.weather-box { text-align: center;  }
+.weather-box { text-align: center; }
 
 .weather-box .temperature 
 {
   position: relative;
   display: inline-block;
   margin: 25px auto;
-  background-color: rgb(36, 36, 36, 0.4);
+  background-color: #24242466;
   border-radius: .8rem;
   padding: .8rem 1.2rem;
 
   color: #fff;
   font-size: 100px;
   font-weight: 900;
-  text-shadow: 3px 6px #1a1a1a;
   text-align: center;
-  box-shadow: 3px 6px #333;
+  box-shadow: 3px 6px rgb(153, 146, 146, 0.7);
 }
 
 .weather-box .weather 
@@ -98,10 +95,9 @@ main
   color: #fff;
   font-size: 45px;
   font-weight: 400;
-  text-shadow: 3px 6px #1a1a1a;
 }
 
 .footer { text-align: center;  margin-top:6rem;}
 i {color: #333; font-size:75px}
-i:hover{color: 4b4b4b}
+i:hover{color: #4b4b4b}
 h2 {color:#333}
